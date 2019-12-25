@@ -124,4 +124,14 @@ would be able to showcase the details.
         
         2. Even if you migrate the version of the Application to AndroidX,
            then the bug with the KotLin based package BarCodeScanner arises.
+      
+ ## Screenshots
+ 
+ ![Screenshot HomePage 1](https://github.com/Parizval/BeYou/blob/master/img/First.jpg)
+ 
+ ![Screenshot HomePage 2](https://github.com/Parizval/BeYou/blob/master/img/Second.jpg)
+ 
+ ![Screenshot HomePage 3](https://github.com/Parizval/BeYou/blob/master/img/Third.jpg)
+ 
+ 
     
